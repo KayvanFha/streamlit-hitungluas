@@ -15,7 +15,7 @@ with st.sidebar :
 if(selected == 'Home') :
     st.title("APLIKASI MENGHITUNG LUAS BANGUN DATAR")
     st.write("SELAMAT DATANG DI APLIKASI MENGHITUNG LUAS BANGUN DATAR SEDERHANA BUATAN KELOMPOK 4")
-    st.write("KELOMPOK INI TERIDRI DARI 5 ANGGOTA :")
+    st.write("KELOMPOK INI TERDIRI DARI 5 ANGGOTA :")
     st.write('1. Indah Meiladihi (16)')
     st.write('2. Isal Ziyad Mubarak (17)')
     st.write('3. Ivanna Zahra Azizah (18)')
